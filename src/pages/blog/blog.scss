@@ -1,0 +1,12 @@
+@use '../../styles/global';
+@import url("../../components/menu/menu.scss");
+@import url("../../components/head/head.scss");
+@import url("../../components/footer/footer.scss");
+@font-face {
+    font-family: "Gilroy";
+    src: url("../../fonts/Gilroy/Gilroy-Medium.ttf"),
+}
+@font-face {
+    font-family: "Gilroy-Bold";
+    src: url("../../fonts/Gilroy/Gilroy-Bold.ttf"),
+}
